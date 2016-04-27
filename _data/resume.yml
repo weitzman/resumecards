@@ -5,8 +5,8 @@ demo: false
 # you don't have to restart Jekyll to see changes.
 
 photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "A UI Designer/Developer based in Vancouver, BC. I'm currently working as a Web Developer at Istuary Innovation Group."
+name: "Moshe Weitzman"
+copy: "Moshe was the first American to contribute significantly to Drupal. He joined Drupal months after its founding in 2001, and has been a consistent technical and organizational leader ever since. Moshe maintains the user system, comment system, the bootstrap system, and Drupal's CLI tool called [Drush](http://github.com/drush-ops/drush). Moshe founded the [groups.drupal.org](http://groups.drupal.org web site, leads the Boston Drupal group, and is a member of the [Drupal Security team](https://www.drupal.org/security-team)."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
