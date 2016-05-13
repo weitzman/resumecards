@@ -433,10 +433,11 @@ script + p {
 }
 
 .resume-subheading {
-  margin: $space-xs 0 $space-sm;
+  //margin: $space-xs 0 $space-sm;
   color: $color-sub;
   font-family: "Quando", sans-serif;
   font-size: $font-size-base;
+  margin-bottom: 0px;
 
   @each $color-name in $color-list {
     .theme-#{$color-name} & {
@@ -446,7 +447,7 @@ script + p {
 }
 
 .resume-duration {
-  margin-bottom: 0;
+  margin-bottom: 10;
 }
 
 .resume-duration,
