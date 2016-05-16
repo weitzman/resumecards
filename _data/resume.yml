@@ -6,7 +6,7 @@ demo: false
 
 photo: "https://farm8.staticflickr.com/7206/26816763756_64aef5bf41_b.jpg"
 name: "Moshe Weitzman"
-copy: "Moshe was the first American to contribute to Drupal. He joined Drupal in 2001, and has been a consistent technical and organizational leader ever since. Moshe <a href=\"\">maintains the user, comment, and bootstrap subsystems</a>, and Drupal's CLI tool <a href=\"http://github.com/drush-ops/drush\">Drush</a>."
+copy: "Moshe was the first American to contribute to Drupal. He joined Drupal in 2001, and has been a consistent technical and organizational leader ever since. Moshe <a href=\"\">maintains the user, comment, and bootstrap subsystems</a>, and Drupal's CLI tool <a href=\"http://github.com/drush-ops/drush\">Drush</a>. Read <a href=\"https://www.reddit.com/r/drupal/comments/1vxu9a/im_moshe_weitzman_a_long_time_drupal_contributor\">Moshe's AMA</a> on Reddit."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
