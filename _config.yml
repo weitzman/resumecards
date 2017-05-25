@@ -1,9 +1,33 @@
+# Site settings
+title: Moshe Weitzman's Resume
+description: "Musings on Drupal, Continuous Integration, and Data Migration."
+url: "https://weitzman.github.io"
+author:
+  name: "Moshe Weitzman"
+  email: "weitzman@tejasa.com"
+  url: "http://weitzman.github.io"
+twitter:
+  username: weitzman
+social:
+  name: Moshe Weitzman
+  links:
+    - https://twitter.com/weitzman
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/weitzman
+    - https://github.com/weitzman
+
+# Plugins
+gems:
+  - jekyll-seo-tag
+
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://weitzman.github.io" # the base hostname & protocol for your site
 future: false
+webmaster_verifications:
+  google: 1dCWhFtRvRx2RD6tDzW8uHQhQMHS_R9XKu7eou5gmwU
 exclude:
   - "README.md"
   - "CHANGELOG.md"
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"
+
